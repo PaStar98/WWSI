@@ -4,44 +4,44 @@
 using namespace std;
 
 
-double calculateIncome(double income);
+double calculateTax(double income); // kalkulator podatkowy
 
+int main() {
+    double income = 0;
 
-int main()
-{
     cout << fixed << setprecision(2);
-
-    double income;
 
     cout << "Podaj dochód: ";
     cin >> income;
 
-    if (income < 5000)
-    {
-        cout << "Zbyt niski dochód!";
+    if (income < 0) {
+        cout << "Dochód nie może być mniejszy od 0";
         return -1;
     }
 
-    cout << "Dochód (netto) = " << calculateIncome(income);
+    if (calculateTax(income) < 0) {
+        cout << "Podatek = 0 zł";
+        return 0;
+    }
+
+    cout << "Podatek = " << calculateTax(income) << " zł";
 }
 
-double calculateIncome(double income)
-{
-    double tax, result;
+double calculateTax(double income) {
+    const int BIG_INCOME = 74048;
+    const int MEDIUM_INCOME = 37024;
 
-    if (income > 74048)
-    {
-        tax = 17648.44 + (income * 0.4);
-        return income - tax;
+    double tax;
+
+    if (income > BIG_INCOME) {
+        tax = 17648.44 + 0.4 * (income - BIG_INCOME);
+    }
+    else if (income > MEDIUM_INCOME) {
+        tax = 6541.24 + 0.3 * (income - MEDIUM_INCOME);
+    }
+    else {
+        tax = 0.19 * income - 493.32;
     }
 
-    if (income > 37024)
-    {
-        tax = 6541.24 + (income * 0.3);
-        return income - tax;
-    }
-
-    tax = (income * 0.19) - 493.32;
-    result = income - tax;
-    return result;
+    return tax;
 }

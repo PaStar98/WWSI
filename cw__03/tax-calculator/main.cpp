@@ -9,19 +9,25 @@ double calculateIncome(double income);
 
 int main()
 {
-    double income;
-
     cout << fixed << setprecision(2);
+
+    double income;
 
     cout << "Podaj dochód: ";
     cin >> income;
+
+    if (income < 5000)
+    {
+        cout << "Zbyt niski dochód!";
+        return -1;
+    }
 
     cout << "Dochód (netto) = " << calculateIncome(income);
 }
 
 double calculateIncome(double income)
 {
-    double tax;
+    double tax, result;
 
     if (income > 74048)
     {
@@ -35,6 +41,7 @@ double calculateIncome(double income)
         return income - tax;
     }
 
-    tax = (income * .19) - 493.32;
-    return income - tax;
+    tax = (income * 0.19) - 493.32;
+    result = income - tax;
+    return result;
 }

@@ -1,0 +1,3 @@
+/home/gloomy/CLionProjects/averages/cmake-build-debug/CMakeFiles/averages.dir
+/home/gloomy/CLionProjects/averages/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gloomy/CLionProjects/averages/cmake-build-debug/CMakeFiles/rebuild_cache.dir

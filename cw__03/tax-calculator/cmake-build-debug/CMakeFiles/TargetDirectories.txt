@@ -1,0 +1,3 @@
+/home/gloomy/CLionProjects/tax-calculator/cmake-build-debug/CMakeFiles/tax_calculator.dir
+/home/gloomy/CLionProjects/tax-calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gloomy/CLionProjects/tax-calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

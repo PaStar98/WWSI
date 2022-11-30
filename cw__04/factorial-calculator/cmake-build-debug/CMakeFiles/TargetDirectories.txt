@@ -1,0 +1,3 @@
+C:/Users/p_startek/CLionProjects/silnia/cmake-build-debug/CMakeFiles/silnia.dir
+C:/Users/p_startek/CLionProjects/silnia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p_startek/CLionProjects/silnia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

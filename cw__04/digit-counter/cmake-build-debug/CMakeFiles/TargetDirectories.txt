@@ -1,0 +1,3 @@
+C:/Users/p_startek/CLionProjects/zlicz-cyfry/cmake-build-debug/CMakeFiles/zlicz_cyfry.dir
+C:/Users/p_startek/CLionProjects/zlicz-cyfry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p_startek/CLionProjects/zlicz-cyfry/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/p_startek/CLionProjects/liczby-pierwsze-zakres/cmake-build-debug/CMakeFiles/liczby_pierwsze_zakres.dir
+C:/Users/p_startek/CLionProjects/liczby-pierwsze-zakres/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p_startek/CLionProjects/liczby-pierwsze-zakres/cmake-build-debug/CMakeFiles/rebuild_cache.dir

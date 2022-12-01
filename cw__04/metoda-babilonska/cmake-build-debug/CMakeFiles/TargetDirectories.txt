@@ -1,0 +1,3 @@
+C:/Users/p_startek/CLionProjects/oblicz_pierwiastek/cmake-build-debug/CMakeFiles/oblicz_pierwiastek.dir
+C:/Users/p_startek/CLionProjects/oblicz_pierwiastek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p_startek/CLionProjects/oblicz_pierwiastek/cmake-build-debug/CMakeFiles/rebuild_cache.dir

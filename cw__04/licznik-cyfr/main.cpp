@@ -17,7 +17,7 @@ int zlicz_cyfry(long long a) {
     }
 
     if (a < 0) {
-        a = a - (a * 2); // Konwersja ujemnej liczby do dodatniej (e.g. [-1337 = 1337]);
+        a = a - (a * 2); // Konwersja ujemnej liczby do dodatniej (np. [-1337 = 1337]);
     } else {
         i = 0;
     }

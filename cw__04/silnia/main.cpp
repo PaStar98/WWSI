@@ -37,7 +37,7 @@ int main() {
             cout << "Wartosc silni jest zbyt wysoka (< 20)";
             break;
         default:
-            cout << to_string(number) + "! = " + to_string(factorial); // number! = factorial
+            cout << number << "! = " << factorial; // number! = factorial
             break;
     }
 }

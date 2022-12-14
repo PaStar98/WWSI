@@ -1,0 +1,3 @@
+C:/Users/p_startek/CLionProjects/tablice__wprowadzenie/cmake-build-debug/CMakeFiles/tablice__wprowadzenie.dir
+C:/Users/p_startek/CLionProjects/tablice__wprowadzenie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p_startek/CLionProjects/tablice__wprowadzenie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

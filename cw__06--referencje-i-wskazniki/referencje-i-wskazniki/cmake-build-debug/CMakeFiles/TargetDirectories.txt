@@ -1,0 +1,3 @@
+C:/Users/p_startek/CLionProjects/referencje-i-wskazniki/cmake-build-debug/CMakeFiles/referencje_i_wskazniki.dir
+C:/Users/p_startek/CLionProjects/referencje-i-wskazniki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p_startek/CLionProjects/referencje-i-wskazniki/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/p_startek/CLionProjects/rekurencja--zad1/cmake-build-debug/CMakeFiles/rekurencja__zad1.dir
+C:/Users/p_startek/CLionProjects/rekurencja--zad1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p_startek/CLionProjects/rekurencja--zad1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

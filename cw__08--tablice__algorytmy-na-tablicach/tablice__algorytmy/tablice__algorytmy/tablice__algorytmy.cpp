@@ -54,7 +54,7 @@ int znajdz_podzielny_element(const int* t, int n, int *liczba) {
 			// liczba = podzielny element tablicy
 
 			return i; 
-			// zwrocenie indeks tablicy, 
+			// zwrocenie indeksu tablicy, 
 			// na ktorym zostala znaleziona podzielna liczba
 		}
 	}
